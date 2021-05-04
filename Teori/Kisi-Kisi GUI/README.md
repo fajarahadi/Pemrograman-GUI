@@ -6,4 +6,4 @@
 5. Setelah itu nomor 3 dan nomor 4 digabung menggunakan Grip Layout
 6. Untuk fitur (Tambah, Edit, Clear, dan Hapus) menggunakan Push Button + Horizontal Layout
 
-![Kisi2 GUI](https://user-images.githubusercontent.com/72422073/116975815-66aef980-acea-11eb-9474-0a5a7c2419f2.PNG)
+   ![Kisi2 GUI](https://user-images.githubusercontent.com/72422073/116975815-66aef980-acea-11eb-9474-0a5a7c2419f2.PNG)
