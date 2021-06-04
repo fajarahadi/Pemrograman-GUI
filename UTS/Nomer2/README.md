@@ -1,9 +1,10 @@
-# Kisi-Kisi GUI
-1. Teks Data Mahasiswa (Bold) menggunakan Label + Vertikal Layout
-2. Dibawahnya Data Mahasiswa menggunakan List View + Vertikal Layout
-3. Teks (nama, nim, jurusan, no.telp) menggunakan label + Vertikal Layout
-4. Kemudian untuk dibagian sebelahnya menggunakan Line Edit + Vertikal Layout
-5. Setelah itu nomor 3 dan nomor 4 digabung menggunakan Grip Layout
-6. Untuk fitur (Tambah, Edit, Clear, dan Hapus) menggunakan Push Button + Horizontal Layout
+didalam kodingan ini terdapat tab dibagian "app.exec_();"
+yang membuat kodingan tersebut tidak bisa di run
+   ![nomer2](https://user-images.githubusercontent.com/72422073/120766714-b4ff2480-c544-11eb-91e4-c6c7024a4d4d.PNG)
 
-   ![Kisi2 GUI](https://user-images.githubusercontent.com/72422073/116975815-66aef980-acea-11eb-9474-0a5a7c2419f2.PNG)
+   ![nomer2(1)](https://user-images.githubusercontent.com/72422073/120766727-b7617e80-c544-11eb-9a48-9862195dd2a0.PNG)
+
+   ![nomer2(2)](https://user-images.githubusercontent.com/72422073/120766734-b892ab80-c544-11eb-9682-425ddeb7bbda.PNG)
+
+
+   
