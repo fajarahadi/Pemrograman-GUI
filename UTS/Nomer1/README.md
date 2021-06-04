@@ -1,4 +1,13 @@
 # NOMER 1
 
+![awalan](https://user-images.githubusercontent.com/72422073/120765675-a6643d80-c543-11eb-85dc-c401347509bc.PNG)
 
-   ![Kisi2 GUI](https://user-images.githubusercontent.com/72422073/116975815-66aef980-acea-11eb-9474-0a5a7c2419f2.PNG)
+![fitur tambah](https://user-images.githubusercontent.com/72422073/120765710-ae23e200-c543-11eb-992d-2e154d24d3ef.PNG)
+
+![Fitur edit](https://user-images.githubusercontent.com/72422073/120765687-a95f2e00-c543-11eb-94f4-9e158356b2c2.PNG)
+
+![Fitur hapus 1](https://user-images.githubusercontent.com/72422073/120765692-aa905b00-c543-11eb-8ef6-94c20589a34c.PNG)
+
+![Fitur hapus 2](https://user-images.githubusercontent.com/72422073/120765700-ac5a1e80-c543-11eb-8e11-055d483c899d.PNG)
+
+![fitur clear](https://user-images.githubusercontent.com/72422073/120765682-a7956a80-c543-11eb-8978-3f3a02c46a7e.PNG)
