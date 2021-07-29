@@ -8,7 +8,7 @@ Selamat datang di Aplikasi KlinikUm. kelompok kami yang beranggotakan:
 3.	Muhammad Iqbal Rasyid 	(19104041)
 4.	Muhammad Fajar Ahadi			(19104007)
 
-Dalam Page ini adalah hasil dari diskusi kami yang membuat sebuah aplikasi.Sebuah aplikasi yang terkonsep dikarenakan masa pandemi sekarang ini dan untuk mempermudah dalam pemeriksaan online yang mudah digunakan oleh user contohnya dalam pemeriksaan danmasukan keluhan dari user sendiri dan bisa untuk mendaftar online tanpa harus mengantri lama lama dan ditentukan jam pemeriksaan sehingga tidak ada orang berkerumun di tempat pemeriksaan atau klinik tersebut. ,Kami memutuskan untuk membuat sebuah Aplikasi yang bernama KlinikUm.  Program kita ini diperuntukan untuk para pasien dan Admin. Dengan adanya aplikasi ini para pasien dapat mendaftar secara online tanpa harus datang ketempat dan untuk admin pencatatan pemeriksaan tidak harus lagi menggunakan cara manual(menggunakan buku). 
+Dalam Page ini adalah hasil dari diskusi kami yang membuat sebuah aplikasi. Sebuah aplikasi yang terkonsep dikarenakan masa pandemi sekarang ini dan untuk mempermudah dalam pemeriksaan online yang mudah digunakan oleh user contohnya dalam pemeriksaan danmasukan keluhan dari user sendiri dan bisa untuk mendaftar online tanpa harus mengantri lama lama dan ditentukan jam pemeriksaan sehingga tidak ada orang berkerumun di tempat pemeriksaan atau klinik tersebut. Kami memutuskan untuk membuat sebuah Aplikasi yang bernama KlinikUm. Program kita ini diperuntukan untuk para pasien dan Admin. Dengan adanya aplikasi ini para pasien dapat mendaftar secara online tanpa harus datang ketempat dan untuk admin pencatatan pemeriksaan tidak harus lagi menggunakan cara manual(menggunakan buku). 
 
 UseCase
 
