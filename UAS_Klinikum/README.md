@@ -14,6 +14,9 @@ UseCase
 
 ![usecase](https://user-images.githubusercontent.com/72425140/127520675-b27fbf9a-abb6-4339-90f6-9a8dbb452a15.jpeg)
 
+Desain Database
+ 
+ 
  
 Petunjuk Penggunaan Aplikasi
 
@@ -61,6 +64,7 @@ didalam menu tambah, admin dapat mengisi data identitas pasien seperti nama,tang
 5. untuk melakukan hapus data pasien,admin bisa mengklik tombol "hapus" dan akan menghapus suatu data pasien tersebut.
 
 6. Untuk mencari data pasien admin bisa memilih filter antara nama pasien dan tanggal pemeriksaan setelah memilih filter,admin bisa mengklik tombol "cari" 
+
 ![cari halaman admin](https://user-images.githubusercontent.com/72425140/127525546-44732821-0bc2-4fad-bee5-3bc391d1c18d.jpeg)
 
 
