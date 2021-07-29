@@ -14,8 +14,11 @@ UseCase
 
 ![usecase](https://user-images.githubusercontent.com/72425140/127520675-b27fbf9a-abb6-4339-90f6-9a8dbb452a15.jpeg)
 
+
+
 Desain Database
- 
+
+![desain database](https://user-images.githubusercontent.com/72422073/127530374-a8544a94-efea-4e73-a8ba-742b52ea817d.jpeg)
  
  
 Petunjuk Penggunaan Aplikasi
@@ -34,7 +37,7 @@ Didalam halaman utama terdapat 4 menu utama yang terdiri : pemeriksaan, riwayat,
 
 3.	Untuk melihat pemeriksaan yang sudah dilakukkan dan pemeriksaan yang sedang berlangsung user bisa memilih bagian menu "Riwayat"
 
-![riwayat user](https://user-images.githubusercontent.com/72425140/127512705-fafe7825-a246-4c1f-b9fc-6c5a2a2dac48.jpeg)
+      ![riwayat user](https://user-images.githubusercontent.com/72425140/127512705-fafe7825-a246-4c1f-b9fc-6c5a2a2dac48.jpeg)
 
 Pada bagian riwayat user dapat melihat pemeriksaan yang sudah dilakukan dan pemeriksaan yang sedang berlangsung. Didalam halaman riwayat terdapat tabel nomer antrian, nama, tanggal pemeriksaan, jam pemeriksaan dan keluhan pasien.
 
@@ -65,7 +68,7 @@ didalam menu tambah, admin dapat mengisi data identitas pasien seperti nama,tang
 
 6. Untuk mencari data pasien admin bisa memilih filter antara nama pasien dan tanggal pemeriksaan setelah memilih filter,admin bisa mengklik tombol "cari" 
 
-![cari halaman admin](https://user-images.githubusercontent.com/72425140/127525546-44732821-0bc2-4fad-bee5-3bc391d1c18d.jpeg)
+      ![cari halaman admin](https://user-images.githubusercontent.com/72425140/127525546-44732821-0bc2-4fad-bee5-3bc391d1c18d.jpeg)
 
 
 SELAMAT MENCOBA
